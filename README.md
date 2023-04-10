@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nitish Sou
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning machine learning, python
-- 💞️ I’m looking to collaborate on any data science project
+- 👀 I’m interested in Data Analyst or Analytics 
+- 🌱 I’m currently learning MySQL, Power BI, Python, machine learning, python
+- 💞️ I’m looking to collaborate on any project in Above 
 - 📫 How to reach me 9784393965
 
 <!---
